@@ -45,4 +45,4 @@ fs.readdir("./commands/", (err, files) => {
 
   });
 
-client.login("NDcxNTg0MTY3NDE1NjQ0MTgy.Djm8tQ.IW1gw-nApQOL77WLDrECEQJpB6c");
+client.login("TOKEN");
